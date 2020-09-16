@@ -1,4 +1,4 @@
 Git is a distrubuted version cntrol system.
 Git is free software distrubuted under the GPL.
 Git has a mutable index called stage.
-Creating a new branch is fast.
+Creating a new branch is quick AND simple.
